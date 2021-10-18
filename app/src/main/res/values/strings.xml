@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pertemuan3_navigation</string>
+    <string name="navigation_drawer_open">Open NavigationDrawer</string>
+    <string name="navigation_drawer_close">Close NavigationDrawer</string>
+
+
+</resources>
